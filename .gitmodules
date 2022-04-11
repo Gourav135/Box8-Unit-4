@@ -1,0 +1,6 @@
+[submodule "Box8-Frontend"]
+	path = Box8-Frontend
+	url = https://github.com/Gourav135/Box8-Frontend.git
+[submodule "Box8-Backend"]
+	path = Box8-Backend
+	url = https://github.com/Gourav135/Box8-Backend.git
